@@ -1,0 +1,16 @@
+h1 {
+  color: red;
+  font-size: 500%;
+}
+
+a {
+	color: green;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+ul {
+	color: blue;
+}
